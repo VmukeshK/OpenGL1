@@ -1,7 +1,7 @@
 #DIrectories
 .vs/
 bin/
-bin-int
+bin-int/
 
 #files
 
